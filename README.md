@@ -11,13 +11,9 @@ I am Delfi, a software engineer from Switzerland.
 
 # 📨 Socials
 
-My Website: [delfi.dev](https://delfi.dev)
-
-E-Mail (private): [delfi@delfi.dev](mailto:delfi@delfi.dev)
-
-E-Mail (buisness): [buisness@delfi.dev](mailto:buisness@delfi.dev)
-
-Discord: `@delfi1423`
+[![Website](https://img.shields.io/badge/Website-FF4041.svg?style=plastic&logo=firefox&logoColor=white)](https://delfi.dev)
+[![E-Mail](https://img.shields.io/badge/E--Mail-137CDE.svg?style=plastic&logo=thunderbird&logoColor=white)](mailto:delfi@delfi.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/901142755609292841)
 
 # 💻 Tech Stack
 
@@ -96,6 +92,17 @@ Discord: `@delfi1423`
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+
+# ⭐ Awsome Software
+
+[![Firefox](https://img.shields.io/badge/Firefox-FF4041.svg?style=plastic&logo=firefox&logoColor=white)](https://firefox.com)
+[![Thunderbird](https://img.shields.io/badge/Thunderbird-137CDE.svg?style=plastic&logo=thunderbird&logoColor=white)](https://thunderbird.net)
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-E17B5F.svg?style=plastic&logo=DuckDuckGo&logoColor=white)](https://duckduckgo.com)
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-1082C3.svg?style=plastic&logo=libreofficebase&logoColor=white)](https://libreoffice.org)
+[![Linux](https://img.shields.io/badge/Linux-000000.svg?style=plastic&logo=linux&logoColor=white)](https://kernel.org)
+[![KDE](https://img.shields.io/badge/KDE--Plasma-1481B8.svg?style=plastic&logo=kde&logoColor=white)](https://kde.org)
+[![Archlinux](https://img.shields.io/badge/ArchLinux-1793D1.svg?style=plastic&logo=archlinux&logoColor=white)](https://archlinux.org)
+[![Debian Linux](https://img.shields.io/badge/Debian-A80030.svg?style=plastic&logo=debian&logoColor=white)](https://debian.org)
 
 # 📊 GitHub Stats:
 
