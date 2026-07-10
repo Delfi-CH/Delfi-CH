@@ -5,7 +5,7 @@ I am Delfi, a software engineer from Switzerland.
 
 🏫 I am 17 years old and in my 11th year of school, studying software development.
 
-🌐 I mostly do web development with React / Svelte for the frontend and SpringBoot / nodeJS for the backend.
+🌐 I mostly do web development with React / Svelte for the frontend and SpringBoot / nodeJS / gin-gonic for the backend.
 
 🐧 I am a big advocate for Free & Open Source Software (FOSS) and a Linux user
 
@@ -34,6 +34,7 @@ I am Delfi, a software engineer from Switzerland.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 
 ## 📱 Desktop/Mobile Applications
@@ -52,6 +53,7 @@ I am Delfi, a software engineer from Switzerland.
 ## 🖥️ System-Programming
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
 ## 📄 Scripting
