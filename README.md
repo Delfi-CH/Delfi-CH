@@ -3,7 +3,7 @@
 👋 Hello!
 I am Delfi, a software engineer from Switzerland.
 
-🏫 I am 17 years old and in my 11th year of school, studying software development.
+🏫 I am 18 years old and in my 11th year of school, studying software development.
 
 🌐 I mostly do web development with React / Svelte for the frontend and SpringBoot / nodeJS / gin-gonic for the backend.
 
